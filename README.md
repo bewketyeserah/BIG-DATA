@@ -1,4 +1,4 @@
-#### Bewket Yeserah
+#### Name: Bewket Yeserah     ID: 0237/12
 ## Introduction to TMDB Data Analysis
 ## Overview
 The TMDB dataset is a comprehensive repository of movie-related information, encompassing details about film releases, genres, ratings, and more. Conducting an analysis of this dataset provides valuable insights into trends, audience preferences, and the performance of movies over time.
